@@ -5,4 +5,4 @@
 ### 2021 Oct
 By using git and markdown, we can write our any kind of notes, personal blog, or diary. This is a good way to share.
 
-edit on Atom
+update on 12 Oct 2021
